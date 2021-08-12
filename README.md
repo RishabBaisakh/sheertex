@@ -3,6 +3,9 @@ I used the tailwind css for the first time, so there was a learning curve. But, 
 
 The Footer was a little tricky. I could have been a little redundant with the code over there.
 
+<= PS =>
+I have changed the tailwind.config.js. There are only 2 breakpoints for now. Please test within those screen sizes.
+
 <= Time Taken =>
 5 hours!
 

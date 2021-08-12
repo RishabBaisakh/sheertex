@@ -85,7 +85,7 @@ function Footer() {
         </div>
       </div>
       <div className="flex flex-wrap items-center justify-center w-full lg:px-16 sm:p-0 sm:w-full">
-        <div class="flex mr-auto ml-8 sm:hidden lg:block">
+        <div class="flex mr-auto ml-8 sm:hidden lg:flex w-60">
           <p class="text-gray-500 mr-4">Select your currency</p>
           <img src="/cad.png" class="h-4 m-auto" />
           <p class="font-bold ml-2">CAD</p>
@@ -97,7 +97,7 @@ function Footer() {
           <a href="#">Terms</a>
           <a href="#">Privacy</a>
         </div>
-        <div class="flex ml-16 pr-4 sm:hidden lg:block">
+        <div class="flex ml-16 pr-4 sm:hidden lg:flex">
           <p class="font-medium">FOLLOW US</p>
           <div class="flex">
             <a href="#">
